@@ -4,4 +4,4 @@
  * @param {number} y
  * @returns number
  */
-exports.add = () => 1;
+exports.add = (x, y) => x + y;
