@@ -1,0 +1,20 @@
+{
+  "name": "i-can-math-too",
+  "version": "1.0.0",
+  "description": "A simple repository, that needs DevOps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warren-sadler/i-can-math-too.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warren-sadler/i-can-math-too/issues"
+  },
+  "homepage": "https://github.com/warren-sadler/i-can-math-too#readme"
+}
