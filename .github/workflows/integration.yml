@@ -1,0 +1,11 @@
+name: integration
+on:
+  push:
+jobs:
+  integration:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+      - run: npm i
+      - run: npm t
