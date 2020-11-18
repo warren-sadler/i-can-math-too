@@ -5,3 +5,6 @@
  * @returns number
  */
 exports.add = (x, y) => x + y;
+exports.multiply = (x, y) => x * y;
+
+exports.divide = (x, y) => x / y;
